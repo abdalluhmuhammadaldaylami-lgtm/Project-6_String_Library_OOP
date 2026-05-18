@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\opject orinted programming\\Project-6_String_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D35B3522-37A8-4B87-8966-62E683D77BBA}|Project-6_String_Library\\Project-6_String_Library.vcxproj|D:\\opject orinted programming\\Project-6_String_Library\\Project-6_String_Library\\Project-6_String_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35B3522-37A8-4B87-8966-62E683D77BBA}|Project-6_String_Library\\Project-6_String_Library.vcxproj|solutionrelative:Project-6_String_Library\\Project-6_String_Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35B3522-37A8-4B87-8966-62E683D77BBA}|Project-6_String_Library\\Project-6_String_Library.vcxproj|D:\\opject orinted programming\\Project-6_String_Library\\Project-6_String_Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D35B3522-37A8-4B87-8966-62E683D77BBA}|Project-6_String_Library\\Project-6_String_Library.vcxproj|solutionrelative:Project-6_String_Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsString.h",
+              "DocumentMoniker": "D:\\opject orinted programming\\Project-6_String_Library\\Project-6_String_Library\\clsString.h",
+              "RelativeDocumentMoniker": "Project-6_String_Library\\clsString.h",
+              "ToolTip": "D:\\opject orinted programming\\Project-6_String_Library\\Project-6_String_Library\\clsString.h",
+              "RelativeToolTip": "Project-6_String_Library\\clsString.h",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAAAAMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T10:38:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project-6_String_Library.cpp",
+              "DocumentMoniker": "D:\\opject orinted programming\\Project-6_String_Library\\Project-6_String_Library\\Project-6_String_Library.cpp",
+              "RelativeDocumentMoniker": "Project-6_String_Library\\Project-6_String_Library.cpp",
+              "ToolTip": "D:\\opject orinted programming\\Project-6_String_Library\\Project-6_String_Library\\Project-6_String_Library.cpp",
+              "RelativeToolTip": "Project-6_String_Library\\Project-6_String_Library.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T10:31:13.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
